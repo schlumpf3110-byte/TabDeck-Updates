@@ -2,8 +2,17 @@
   "schema": 1,
   "packageName": "dev.tabdeck",
   "channel": "stable",
-  "versionCode": 30,
-  "versionName": "0.30.0",
-  "publishedAt": "2026-10-16T00:00:00Z",
-  "patches": []
+  "versionCode": 31,
+  "versionName": "0.31.0",
+  "publishedAt": "2026-10-16T21:29:00Z",
+  "patches": [
+    {
+      "fromVersionCode": 30,
+      "toVersionCode": 31,
+      "url": "https://github.com/schlumpf3110-byte/TabDeck-Updates/releases/download/v0.31.0/TabDeck_0.30_to_0.31.bsdiff",
+      "sha256": "db2fbf916114d68fa04e0e84125a9a68b146c729d6904c07ed86755b639714f7",
+      "outputSha256": "d9d9d091a990b53d1725363be7ad590f975c206a7bd201bcacc7a53949624916",
+      "size": 146526
+    }
+  ]
 }
