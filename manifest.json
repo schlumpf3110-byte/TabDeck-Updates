@@ -2,22 +2,22 @@
   "schema": 1,
   "packageName": "dev.tabdeck",
   "channel": "stable",
-  "versionCode": 50,
-  "versionName": "0.50.0",
-  "publishedAt": "2026-10-19T10:15:56Z",
+  "versionCode": 51,
+  "versionName": "0.50.1",
+  "publishedAt": "2026-10-19T15:41:12Z",
   "full": {
-    "url": "https://github.com/schlumpf3110-byte/TabDeck-Updates/releases/download/v0.50.0/TabDeck_0.50.0.apk",
-    "sha256": "d1f528a78a64edddc491248ce58f1f11609b08604462630d86f19599fa624f9c",
-    "size": 197758725
+    "url": "https://github.com/schlumpf3110-byte/TabDeck-Updates/releases/download/v0.50.1/TabDeck_0.50.1.apk",
+    "sha256": "07ae7aaa37f5358d04cda9d89e9c0eba2f2d06514ea04047a6ffb434092b5a66",
+    "size": 197758949
   },
   "patches": [
     {
-      "fromVersionCode": 41,
-      "toVersionCode": 50,
-      "url": "https://github.com/schlumpf3110-byte/TabDeck-Updates/releases/download/v0.50.0/TabDeck_0.41.0_to_0.50.0.bsdiff",
-      "sha256": "66580e8c99aea2ffd51475bc220a79b631258c93ac19c91d60bfd935b84bc27d",
-      "outputSha256": "d1f528a78a64edddc491248ce58f1f11609b08604462630d86f19599fa624f9c",
-      "size": 173713
+      "fromVersionCode": 50,
+      "toVersionCode": 51,
+      "url": "https://github.com/schlumpf3110-byte/TabDeck-Updates/releases/download/v0.50.1/TabDeck_0.50.0_to_0.50.1.bsdiff",
+      "sha256": "22eda4aad250f70646fe3762e3fb73405fdb06ed84b3e78638b9ff1df5a3be99",
+      "outputSha256": "07ae7aaa37f5358d04cda9d89e9c0eba2f2d06514ea04047a6ffb434092b5a66",
+      "size": 50128
     }
   ]
 }
